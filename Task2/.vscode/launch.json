@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/User.DESKTOP-CTIQ4C3/Documents/UIT/Year3/HK1/NT219-Cryptography/Practical/Lab1,2/Task2_AES_without_cryplib",
+      "program": "c:/Users/User.DESKTOP-CTIQ4C3/Documents/UIT/Year3/HK1/NT219-Cryptography/Practical/Lab1,2/Task2_AES_without_cryplib/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
