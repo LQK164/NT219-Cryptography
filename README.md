@@ -1,5 +1,5 @@
 # NT219-Cryptography
-Caution: Tasks are only for window. If you want use them in Linux, please change task.json file.
+Caution: Codes are only for window. If you want use them in Linux, please change task.json file.
 =======
 
 Excercises: 
